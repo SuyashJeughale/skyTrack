@@ -1,0 +1,59 @@
+.aa {
+  display: inline-block;
+  margin-right: 40px;
+  align-items: center;
+}
+.suyash {
+  margin-left: 100px;
+  display: inline-block;
+}
+.navbar {
+  margin-left: -150px;
+  display: inline-block;
+}
+.formcorner {
+  margin-left: 150px;
+  align-items: center;
+}
+p {
+  text-decoration-color: #3eb2fd;
+}
+.city {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+.input {
+  margin-left: 3px;
+}
+footer {
+  margin-left: 120px;
+  margin-top: 300px;
+  margin-bottom: 20px;
+  font-size: larger;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+.h5 {
+  margin-top: 2px;
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.copyright {
+  color: #149bf3;
+}
+.button-21 {
+  margin-left: 5px;
+  align-items: center;
+  background-color: #149bf3;
+  border-radius: 100px;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #ffffff;
+  display: inline-flex;
+  font-family: CircularStd, sans-serif;
+  line-height: 1.5;
+  padding: 6px 20px;
+  position: relative;
+  text-align: center;
+}
