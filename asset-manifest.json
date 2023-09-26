@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SuyashJeughale/skyTrack/static/css/main.73b81f37.css",
+    "main.js": "/SuyashJeughale/skyTrack/static/js/main.bd74b9b4.js",
+    "static/media/sunset.jpg": "/SuyashJeughale/skyTrack/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/SuyashJeughale/skyTrack/index.html",
+    "main.73b81f37.css.map": "/SuyashJeughale/skyTrack/static/css/main.73b81f37.css.map",
+    "main.bd74b9b4.js.map": "/SuyashJeughale/skyTrack/static/js/main.bd74b9b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b81f37.css",
+    "static/js/main.bd74b9b4.js"
+  ]
+}
